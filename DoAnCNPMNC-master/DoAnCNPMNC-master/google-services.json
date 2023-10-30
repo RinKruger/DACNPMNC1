@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "226444248751",
+    "firebase_url": "https://syncdatabase-73aa0-default-rtdb.firebaseio.com",
+    "project_id": "syncdatabase-73aa0",
+    "storage_bucket": "syncdatabase-73aa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226444248751:android:65a7624a669a8cba5f365a",
+        "android_client_info": {
+          "package_name": "com.maithihao.qlnv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmk6KmAsT_jTtmFbPoYNxcZEUePuX0Ryk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226444248751:android:f1424bb4c1a4e9f45f365a",
+        "android_client_info": {
+          "package_name": "huflit.edu.dutru3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmk6KmAsT_jTtmFbPoYNxcZEUePuX0Ryk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
